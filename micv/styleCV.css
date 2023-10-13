@@ -1,0 +1,20 @@
+.txt {
+    color: brown;
+}
+body {
+    background-color: rgb(232, 177, 236);
+}
+h1 {
+    background-color: violet;
+}
+h2 {
+    background-color: violet;
+}
+p {
+    background-color: brown;
+}
+#caja{
+    color: darkcyan;
+    background-color: chartreuse;
+    width: 300px;
+}
